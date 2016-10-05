@@ -1,0 +1,10 @@
+   10 #NumAgents
+  100 #WorldBounds
+   60 #Vanim
+    1 #CamDs
+    5 #CamDa
+    3 #InterpStep
+    1 #ScaleTerrain
+   20 #ScaleActor
+x.txt # x-coordinates file
+y.txt # z-coordinates file
