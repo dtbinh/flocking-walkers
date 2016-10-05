@@ -1,0 +1,12 @@
+10 #NumAgents
+0.5 #Total Rule Weight
+100 #WorldBounds
+1 #DeltaTime
+2 #Velocity
+60 #Vanim
+1 #CamDs
+5 #CamDa
+3 #InterpStep
+1 #ScaleTerrain
+20 #ScaleActor
+rrrrrrrrrr #colors
