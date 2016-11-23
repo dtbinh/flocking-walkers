@@ -3,3 +3,5 @@
     Experiments to Simulator2D and
 2a. type the name of the experiment or
 2b. load the experiment from the GUI
+
+For further details, please read the manual under Simulator2D/MatlabFLOWQuickStart.pdf
